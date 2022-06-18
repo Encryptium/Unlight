@@ -1,4 +1,4 @@
-const dmode = {
+const unlight = {
 	version: "v1.0.0",
 	darkModeActive: false, // Access 'darkMode' to check if darkMode is on
 	activateDarkMode: function(backgroundColor="#141414", colors = {}) {
