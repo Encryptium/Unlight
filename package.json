@@ -1,0 +1,26 @@
+{
+  "name": "unlight",
+  "version": "2.0.0",
+  "description": "Unlight is a powerful library that helps you quickly convert your website into a rich and dynamic dark mode. It's fast, reliable, and highly customizable. Get started with Unlight to create great dark modes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "darkmode",
+    "dark",
+    "unlight",
+    "web",
+    "development"
+  ],
+  "author": "Encryptium",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Encryptium/Unlight.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Encryptium/Unlight/issues"
+  },
+  "homepage": "https://github.com/Encryptium/Unlight#readme"
+}
