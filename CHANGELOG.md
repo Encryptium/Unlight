@@ -1,3 +1,11 @@
+## v2.1.1 - June 23, 2022
+
+Features:
+- Added clarifications to importing Unlight in `README.md`
+
+Bug Fixes:
+- Fixed problem where importing `index.js` wouldn't work
+
 ## v2.1.0 - June 22, 2022
 
 Features:

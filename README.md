@@ -5,7 +5,24 @@ Unlight is a powerful library that helps you quickly convert your website into a
 Unlight offers you the option to assign special classes to specific elements when activating a certain site-wide theme. You can them style these element classes to make it suitable for your site.
 
 ### Importing Unlight
-Import Unlight first... of course. 
+#### Unlight CDN
+```html
+<!-- Import the Unlight CDN -->
+<script src="//cdn.jsdelivr.net/npm/unlight/index.js"></script>
+
+<!-- Rest of the code should be AFTER all the body and Unlight script tag -->
+<script src="script.js"></script>
+```
+
+#### Hosting Unlight Locally
+Download the Unlight `index.js` file and import it the same as how you would import the CDN:
+```html
+<!-- Import the locally hosted Unlight lib -->
+<script src="/path/to/unlight.js"></script>
+
+<!-- Rest of the code should be AFTER all the body and Unlight script tag -->
+<script src="script.js"></script>
+```
 
 ### Activating Unlight Dark Mode/Other Themes
 Please note that Unlight does not automatically style everything for you. It will only style the background color you define when Unlight is activated. Styling will require CSS after all class definitions have been made.
