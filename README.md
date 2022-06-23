@@ -8,7 +8,7 @@ Unlight offers you the option to assign special classes to specific elements whe
 #### Unlight CDN
 ```html
 <!-- Import the Unlight CDN -->
-<script src="//cdn.jsdelivr.net/npm/unlight/index.js"></script>
+<script src="//cdn.jsdelivr.net/npm/unlight@2.1.1/index.js"></script>
 
 <!-- Rest of the code should be AFTER all the body and Unlight script tag -->
 <script src="script.js"></script>
